@@ -1,0 +1,6 @@
+export const USERLOGIN = 'LOGIN'
+export const ERROR = 'ERROR'
+export const SELECTNUMBER = 'SELECTNUMBER'
+export const SELECTEDNUMBER = 'SELECTEDNUMBER'
+export const SELECTVALUE = 'SELECTVALUE'
+export const OPENDIALOGBOX = 'OPENDIALOGBOX'
